@@ -20,5 +20,16 @@ A data analysis project examining how COVID-19 permanently shifted Bay Area tran
 4. Run all cells sequentially
 5. The interactive dashboard will render at the bottom — use the dropdowns to select a station and era
 
+## Project Structure
+```
+├── data/
+├── notebooks/
+│   └── Project_Assignment_Final.ipynb
+├── reports/
+│   └── Final_Write_up.pdf
+├── .gitignore
+└── README.md
+```
+
 ## End Goal
 - We hope our product may identify inefficiencies within the BART system and provide scheduling recommendations, identifying travel patterns to help riders avoid crowding and helping planners identify underutilized routes.
